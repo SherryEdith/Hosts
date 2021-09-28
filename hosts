@@ -9636,3 +9636,45 @@
 :: zzimg.51.la
 :: zzy1.quyaoya.com
 #-----------------------------------去广告end----------------------------------------------------------------------------------
+#-----------miui广告start---------------------
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 api.ad.miui.com
+127.0.0.1 api.tw06.xlmc.sec.miui.com
+127.0.0.1 starfish.pandora.xiaomi.com
+127.0.0.1 mishop.pandora.xiaomi.com
+127.0.0.1 res.qhupdate.com
+127.0.0.1 misc.pandora.xiaomi.com
+127.0.0.1 bss.pandora.xiaomi.com
+127.0.0.1 mishop.cdn.pandora.xiaomi.com
+127.0.0.1 cdn.fds.api.xiaomi.com
+127.0.0.1 image.box.xiaomi.com
+127.0.0.1 o2o.api.xiaomi.com
+127.0.0.1 cdn-thumb.fds.api.xiaomi.com
+127.0.0.1 dvb.pandora.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 xlmc.sec.miui.com
+127.0.0.1 api.sec.miui.com
+127.0.0.1 app01.nodes.gslb.mi-idc.com
+127.0.0.1 app02.nodes.gslb.mi-idc.com
+127.0.0.1 api.ra1.xlmc.sandai.net
+127.0.0.1 sousuo.xm.sjzhushou.com
+127.0.0.1 twin13a131.sandai.net
+127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
+127.0.0.1 mibind.chat.gslb.mi-idc.com
+127.0.0.1 info.analysis.kp.sec.miui.com
+127.0.0.1 test.ad.xiaomi.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+
+127.0.0.1 t7z.cupid.ptgy.gitv.tv
+127.0.0.1 config.kuyun.com
+127.0.0.1 api.io.mi.com
+127.0.0.1 de.pandora.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 ad.mi.com
+127.0.0.1 ad.xiaomi.com
+127.0.0.1 ad1.xiaomi.com
+127.0.0.1 b.netcheck.gallery.pandora.xiaomi.com
+
+#-----------miui广告end---------------------
